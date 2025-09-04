@@ -1218,4 +1218,3 @@ print(b)
 
 c = abs(-79898)
 print(c)
-print("rand")
