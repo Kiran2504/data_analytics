@@ -997,8 +997,8 @@
 
 #Iteration in dictionaries
 
-#Iteration in Dictionaries
-Student={"name":"John","class":"6th", "roll_no":23}
+# #Iteration in Dictionaries
+# Student={"name":"John","class":"6th", "roll_no":23}
 
 #printing all the key names one by one
 
@@ -1202,19 +1202,46 @@ Student={"name":"John","class":"6th", "roll_no":23}
 # print(x)
 
 
-import math
+# import math
 
-x = max(99,88,77)
-print("The maximim valeu is",x)
+# x = max(99,88,77)
+# print("The maximim valeu is",x)
 
-x = min(99,88,77)
-print("The minimum valeu is",x)
+# x = min(99,88,77)
+# print("The minimum valeu is",x)
 
-a = pow(2,4)
-print(a)
+# a = pow(2,4)
+# print(a)
 
-b = math.sqrt(49)
-print(b)
+# b = math.sqrt(49)
+# print(b)
 
-c = abs(-79898)
-print(c)
+# c = abs(-79898)
+# print(c)
+
+# a = "135"
+# i = 1 + int(a)
+# f = float(a)
+# print(i)
+# print(f)
+
+
+
+# def greet():
+#     print("Hello! Welcome to Python")
+
+# greet()
+# greet()
+
+
+# a = "kiran"
+# # count = a.count("k")
+# # print(count)
+
+# capitalize_a = a.capitalize
+# print(capitalize_a)
+
+
+l1 = [1,2,3,4,5,6,7]
+print(sorted(l1))
+print(reversed(l1))
